@@ -1,4 +1,4 @@
-# Internal Training
+# Project Name
 
 [Link to TEG case](http://www.google.com)
 
